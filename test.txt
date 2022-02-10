@@ -1,6 +1,8 @@
 import beautipulsopas
 
 
+meralco
+
 username = qweasd123
 password = Wowowowow123!
 domain = wowowow.meralco.com
