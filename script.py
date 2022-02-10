@@ -1,7 +1,7 @@
 import beautipulsopas
 
 
-username = trendph\timothyf
+username = qweasd123
 password = Wowowowow123!
-domain = wowowow.trendmicro.com
-email = rainman@trendmicro.com
+domain = wowowow.meralco.com
+email = qweasd@meralco.com
